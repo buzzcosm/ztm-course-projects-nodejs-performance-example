@@ -3,6 +3,7 @@ const express = require('express');
 const app = express();
 
 function delay(duration) {
+  // blocking behavior ...
   const startTime = Date.now();
   while(Date.now() - startTime < duration) {
     // event loop is blocked...
@@ -10,6 +11,10 @@ function delay(duration) {
 }
 
 app.get('/', (req, res) => {
+  // Blocking operation
+  // JSON.stringify({}) => "{}"
+  // JSON.parse("{}") => {}
+  // [5,4,3,2,1].sort();
   res.send('Performance example');
 });
 

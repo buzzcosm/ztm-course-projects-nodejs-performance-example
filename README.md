@@ -14,4 +14,7 @@ Exercises for node server performance. Performance optimization.
 
 ## Useful references
 
-- []()
+<!-- Blocking functions -->
+- [Security Blocking functions - Node Crypto Module](https://nodejs.org/api/crypto.html)
+- [Article - Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits/)
+- [Engagement charts: See correlations between performance and user engagement](https://www.speedcurve.com/blog/web-performance-monitoring-user-engagement/)
