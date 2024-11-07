@@ -25,3 +25,5 @@ Topic: **blocking behavior and performance approach**
 - [Article - Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits/)
 - [Engagement charts: See correlations between performance and user engagement](https://www.speedcurve.com/blog/web-performance-monitoring-user-engagement/)
 - [Node Cluster Module](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/learn/lecture/25961886#overview)
+- [Wikipedia - **Round-robin** scheduling](https://en.wikipedia.org/wiki/Round-robin_scheduling)
+  > Round-robin (**RR**) is one of the algorithms employed by process and network schedulers in computing.
